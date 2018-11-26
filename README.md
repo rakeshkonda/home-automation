@@ -17,3 +17,5 @@ Please access the JavaScript application @ https://home-automation-app.herokuapp
 
 * *Note:* This application uses https://jsfiddle.net/echo/jsonp/ API from JS Fiddle to echo the user input actions.
 
+
+![Alt text](/Home-Automation-Panel.png?raw=true "Home Automation - Control Panel")
